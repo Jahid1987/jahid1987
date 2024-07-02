@@ -4,6 +4,13 @@
 
 I'm a passionate web developer with a strong foundation in front-end and back-end technologies. My expertise includes HTML, CSS, JavaScript, React, Express, MongoDB, and Next.js. I enjoy creating seamless and dynamic web applications, always aiming for the best user experience and efficient performance.
 
+## 📊 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
 ## 🛠 Skills
 - **Front-End:** HTML, CSS, JavaScript, React
 - **Back-End:** Express, MongoDB
