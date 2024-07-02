@@ -6,9 +6,9 @@ I'm a passionate web developer with a strong foundation in front-end and back-en
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahid1987&show_icons=true&theme=radical)
+![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jahid1987&theme=radical)
+![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1987&layout=compact&theme=radical)
 
 
 ## 🛠 Skills
