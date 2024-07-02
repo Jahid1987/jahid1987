@@ -21,7 +21,8 @@ I'm a passionate web developer with a strong foundation in front-end and back-en
 
 ## 🚀 Projects
 - **[Just Home](https://just-home-625cb.web.app):** Just Home is real estate buying and selling site. An user will be able to create wish list, offer to buy. If the user is an agent, he/she will be able to add properties to sell and mange those properties.
-- **[Project 2](#):** A brief description of what this project is about.
+- **[JH Hotel](https://hj-hotel-b96ba.web.app/):** HJ Hotel is a room booking site. Here user will be able to find room according to budget, to book, cancel prior to 1 day of booking date, to subscribe for news letter.
+- **[Holy Tourism](https://holy-tourism.web.app/):** "Holy Tourism" is a website dedicated to showcasing tourist spots in Southeast Asia. From stunning landscapes to cultural landmarks, our platform aims to inspire travel enthusiasts and help them discover the beauty of the region.
 
 ## 📫 How to reach me
 - [Email](mailto:jahid.englaa@gmail.com)
