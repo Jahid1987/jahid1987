@@ -28,10 +28,6 @@ I'm a passionate web developer with a strong foundation in front-end and back-en
 - [LinkedIn](https://www.linkedin.com/in/anwer-jahid)
 - [Facebook](https://www.facebook.com/jahid.anwer.9)
 
-## 🌐 Connect with me
-- [GitHub](https://github.com/yourusername)
-- [Email](mailto:jahid.englaa@gmail.com)
-
 ## 📊 GitHub Stats
 
 ![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jahid1987&theme=radical)
