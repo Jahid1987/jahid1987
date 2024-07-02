@@ -6,15 +6,22 @@ I'm a passionate web developer with a strong foundation in front-end and back-en
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahid1987&show_icons=true&theme=radical)
 ![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jahid1987&theme=radical)
 ![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1987&layout=compact&theme=radical)
 
 
 ## 🛠 Skills
-- **Front-End:** HTML, CSS, JavaScript, React
-- **Back-End:** Express, MongoDB
-- **Frameworks:** Next.js
+- **Front-End:**
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+- **Back-End:**
+  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Frameworks:**
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
 
 ## 🚀 Projects
 - **[Project 1](#):** A brief description of what this project is about.
