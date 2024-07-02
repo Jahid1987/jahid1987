@@ -1,3 +1,5 @@
+![Banner](https://i.ibb.co/gS5mnKT/IMG-20240503-WA0004.jpg)
+
 # 👋 Hi, I'm Jahid Anwer
 
 I'm a passionate web developer with a strong foundation in front-end and back-end technologies. My expertise includes HTML, CSS, JavaScript, React, Express, MongoDB, and Next.js. I enjoy creating seamless and dynamic web applications, always aiming for the best user experience and efficient performance.
