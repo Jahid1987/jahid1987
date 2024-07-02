@@ -20,7 +20,7 @@ I'm a passionate web developer with a strong foundation in front-end and back-en
 
 
 ## 🚀 Projects
-- **[Project 1](#):** A brief description of what this project is about.
+- **[Just Home](https://just-home-625cb.web.app):** Just Home is real estate buying and selling site. An user will be able to create wish list, offer to buy. If the user is an agent, he/she will be able to add properties to sell and mange those properties.
 - **[Project 2](#):** A brief description of what this project is about.
 
 ## 📫 How to reach me
