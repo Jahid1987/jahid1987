@@ -15,7 +15,7 @@ I'm a passionate web developer with a strong foundation in front-end and back-en
 - **Back-End:**
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- **Frameworks:**
+- **Frameworks:(currently exploring)**
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 
